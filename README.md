@@ -1,6 +1,6 @@
 # bloomberg-subscription-tool
 
-This is a tool designed by one of my friends that I contributed to
+This is a tool designed by one of my friends (for his use as a technical analyst intern at CIBC) that I have contributed to
 
 Checks the subscription function of Bloomberg and automatically generates reports when a feed issue occurs
 
